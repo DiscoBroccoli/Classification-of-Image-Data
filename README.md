@@ -22,3 +22,5 @@ train.py ResNet
  The models can be tested using test.py by editing the source of the checkpoint to be loaded. 
  
  data.py and plots.py are used to visualize data and graph plots.
+ 
+ More information can be found at jiebao/projects/CIFAR-10
