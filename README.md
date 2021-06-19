@@ -23,4 +23,4 @@ train.py ResNet
  
  data.py and plots.py are used to visualize data and graph plots.
  
- More information can be found at [http://jiebao.ca/projects/CIFAR-10](http://jiebao/projects/CIFAR-10).
+ More information can be found at [http://jiebao.ca/projects/CIFAR-10](https://jiebao.ca/projects/CIFAR-10).
